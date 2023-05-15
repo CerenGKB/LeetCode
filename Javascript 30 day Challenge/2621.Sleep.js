@@ -1,4 +1,4 @@
-//Day 11 -Javascript 30 day challenge
+//Day 11 - Javascript 30 day Challenge
 
 /* Given a positive integer millis, write an asyncronous function that sleeps for millis milliseconds.
  It can resolve any value. */
