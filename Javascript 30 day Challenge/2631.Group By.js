@@ -1,4 +1,4 @@
-//Day 25 - Javascript 30 day challenge
+//Day 24 - Javascript 30 day challenge
 
 /* 
 Write code that enhances all arrays such that you can call the array.groupBy(fn) method on any array and it will return a grouped version of the array.
